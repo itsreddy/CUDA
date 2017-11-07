@@ -1,4 +1,6 @@
-# CUDA
+# CUDA fibonacci series generation
+# used visual studio
+
 The Golden Ratio
 The ratio of successive elements of the sequence, i.e. F(n+1) / F(n). It turns out that this ratio tends towards a fixed value, as the Fibonacci numbers get larger. Moreover, this particular value is very well-known to mathematicians through the ages. It is known as the golden ratio, and is given by
 
